@@ -123,9 +123,16 @@ opacity: 0.6s;
      height: 50vh;
    }
    .button{
-      background-color: aqua;
+       background-color: aqua;
       color: whitesmoke;
       border-color: aqua;
       margin-left: 73pc;
+      padding: 10px;
+      margin-bottom: 40px;
       
+   }
+   .oneline
+   {
+      background-color: transparent;
+      opacity: 0.6;
    }
